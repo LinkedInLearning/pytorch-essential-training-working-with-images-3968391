@@ -39,5 +39,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/pytorch-essential-training-working-with-images
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQHotcUAPxNyHg/learning-public-crop_675_1200/B4DZXPUgMzHsAY-/0/1742940014122?e=2147483647&v=beta&t=jnBzQLomWbP7BY1T0a25g2G04QUU_LW6K_Gziqc_Ytw
 
